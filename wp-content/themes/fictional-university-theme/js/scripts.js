@@ -11,5 +11,3 @@ import Search from './modules/Search';
 var mobileMenu = new MobileMenu();
 var heroSlider = new HeroSlider();
 var liveSearch = new Search();
-
-alert("JS TESTING");
