@@ -3,8 +3,8 @@
 
     // Location Post Type
 register_post_type('location', array(
-    'supports' => array('title', 'editor', 'thumbnail'),
-    'rewrite' => array('slug' => 'location'),
+    'supports' => array('title', 'editor', 'excerpt'),
+    'rewrite' => array('slug' => 'locations'),
     'has_archive' => true,
     'public' => true,
     'labels' => array(
