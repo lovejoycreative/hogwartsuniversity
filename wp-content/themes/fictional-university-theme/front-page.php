@@ -4,7 +4,7 @@
   <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/library-hero.jpg') ?>);"></div>
     <div class="page-banner__content container t-center c-white">
       <h1 class="headline headline--large">Welcome to Hogwarts!</h1>
-      <h2 class="headline headline--medium">School of Witchcraft and Wizardry.</h2>
+      <h2 class="headline headline--medium">School of Witchcraft and Wizardry</h2>
       <h3 class="headline headline--small">Draco dormiens nunquam titillandus</h3>
       <a href="<?php echo geT_post_type_archive_link('program'); ?>" class="btn btn--large btn--blue">Choose Your Program</a>
     </div>
