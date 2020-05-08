@@ -52,11 +52,11 @@
           <h3 class="headline headline--small">Connect With Us</h3>
           <nav>
             <ul class="min-list social-icons-list group">
-              <li><a href="#" class="social-color-facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-              <li><a href="#" class="social-color-twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-              <li><a href="#" class="social-color-youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-              <li><a href="#" class="social-color-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-              <li><a href="#" class="social-color-instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/groups/335522936882701/" class="social-color-facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li><a href="https://twitter.com/hogwarts_twt" class="social-color-twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.youtube.com/watch?v=ubNmT8FzHLo" class="social-color-youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/friends-of-hogwarts/about/" class="social-color-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.instagram.com/explore/tags/hogwartsschoolofwitchcraftandwizardry/" class="social-color-instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             </ul>
           </nav>
         </div>
@@ -73,6 +73,11 @@
           <i class="fa fa-window-close search-overlay__close" aria-hidden="true"></i>
       </div>
     </div>
+
+    <div class="container">
+      <div id="search-overlay__results"></div>
+    </div>
+
   </div>
 
 <?php  wp_footer(); ?>
